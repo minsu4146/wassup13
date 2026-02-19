@@ -12,6 +12,8 @@ https://apis.data.go.kr/B551011/KorPetTourService2/detailPetTour2?serviceKey=API
 
 https://apis.data.go.kr/B551011/KorPetTourService2/detailImage2?serviceKey=API 인증키&contentId=3446629&MobileApp=desktop&MobileOS=web
 
+
+
 <response>
 <header>
 <resultCode>0000</resultCode>
